@@ -7,5 +7,3 @@ def mean(lst):
         sum = sum + i
     mn = sum/len(lst)
     return mn
-
-
